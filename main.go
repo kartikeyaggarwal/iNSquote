@@ -27,7 +27,7 @@ func run() error {
 
 	req, _ := http.NewRequest("GET", url, nil)
 
-	req.Header.Add("X-RapidAPI-Key", "c0e89c3db7mshab12dcd7a726facp1ef543jsn57bdaa0b6784")
+	req.Header.Add("X-RapidAPI-Key", "YOU API KEY HERE")
 	req.Header.Add("X-RapidAPI-Host", "quotes15.p.rapidapi.com")
 
 	res, _ := http.DefaultClient.Do(req)
