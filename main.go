@@ -70,7 +70,3 @@ func run() error {
 	return nil
 }
 
-func instagrampost() {
-	fmt.Println("Posting on Instagram")
-
-}
