@@ -6,3 +6,13 @@ Hey This Tool is created for instagram creators for ease their work so I devlope
 - Golang Installed
 
 ##  Installation
+1. Clone The Repositry 
+`git clone github.com/kartikeyaggarwal/Quotestar`
+2. Now configure API Key in code 
+
+> Go to main.go
+> Edit Enter API KEY HERE WITH YOUR API KEY
+
+3. Now  `go run main.go`
+
+
