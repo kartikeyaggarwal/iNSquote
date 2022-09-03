@@ -16,7 +16,7 @@ API URL https://rapidapi.com/martin.svoboda/api/quotes15
 
 
 [![installapi](https://i9.ytimg.com/vi_webp/3ziONKgedwQ/mq1.webp?sqp=CKSHzJgG&rs=AOn4CLC5v5TrhXl4CNg6Z5nmzCZSuVr_aQ)
-](https://www.youtube.com/watch?v=3gjcY_00U1w)
+](https://youtu.be/3ziONKgedwQ)
 
 CLICK ABOVE IMAGE FOR API KEY CONFIGURATION VIDEO
 
