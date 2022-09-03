@@ -38,6 +38,14 @@ Your tool will generate quote image
 - [ ] Automatic Upload on Youtube 
 &many more
 
+## Note
+- You can Customise Backround via changing path in main.go
+- You can Customise Font style path in main.go (format suported .ttf)
+
+
+
+
+
 ### If you like the project dont forgot to star it
 ### If you found any issue or had any suggestion pls free to tell us
 
