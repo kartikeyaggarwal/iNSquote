@@ -7,7 +7,7 @@ Hey This Tool is created for instagram creators for ease their work so I devlope
 
 ##  Installation
 1. Clone The Repositry 
-`git clone github.com/kartikeyaggarwal/Quotestar`
+`git clone https://github.com/kartikeyaggarwal/Quotestar`
 2. Now configure API Key in code 
 
 > Go to main.go
