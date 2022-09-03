@@ -15,7 +15,7 @@ Hey This Tool is created for instagram creators for ease their work so I devlope
 API URL https://rapidapi.com/martin.svoboda/api/quotes15
 
 
-[![installapi](https://i9.ytimg.com/vi_webp/3ziONKgedwQ/mq1.webp?sqp=CKSHzJgG&rs=AOn4CLC5v5TrhXl4CNg6Z5nmzCZSuVr_aQ)
+[![installapi](https://apipheny.io/wp-content/uploads/2021/02/210203-API-RP-12-what-is-an-api-key.jpg)
 ](https://youtu.be/3ziONKgedwQ)
 
 CLICK ABOVE IMAGE FOR API KEY CONFIGURATION VIDEO
