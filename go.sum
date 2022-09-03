@@ -11,6 +11,8 @@ github.com/hegedustibor/htgo-tts v0.0.0-20220821045517-04f3cda7a12f h1:Cr8e7KUf2
 github.com/hegedustibor/htgo-tts v0.0.0-20220821045517-04f3cda7a12f/go.mod h1:VBNcur+xWvaQIWCaLH8w7j68zPeqQwVfjREn2S7kYbY=
 github.com/kartikeyaggarwal/printer v0.0.0-20220901182723-f9b7b883c334 h1:xJicSldGiMNCIMDSzsO2GJTq+yzDliZJfJhmHwZjgb8=
 github.com/kartikeyaggarwal/printer v0.0.0-20220901182723-f9b7b883c334/go.mod h1:qGiPlM6uwAyLiGuuLidWPwZWDLn6ezuzv7U2nlimZ4M=
+github.com/kartikeyaggarwal/printer v0.0.0-20220902095313-3d871a9173f4 h1:4vYDngNCjFPP1gSXgkSPaROwo3vMSnJSi4YYUHzYstc=
+github.com/kartikeyaggarwal/printer v0.0.0-20220902095313-3d871a9173f4/go.mod h1:qGiPlM6uwAyLiGuuLidWPwZWDLn6ezuzv7U2nlimZ4M=
 golang.org/x/exp v0.0.0-20190306152737-a1d7652674e8/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
 golang.org/x/image v0.0.0-20190227222117-0694c2d4d067 h1:KYGJGHOQy8oSi1fDlSpcZF0+juKwk/hEMv5SiwHogR0=
 golang.org/x/image v0.0.0-20190227222117-0694c2d4d067/go.mod h1:kZ7UVZpmo3dzQBMxlp+ypCbDeSB+sBbTgSJuh5dn5js=
