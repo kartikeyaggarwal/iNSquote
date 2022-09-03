@@ -9,10 +9,6 @@ import (
 	"net/http"
 
 	"github.com/kartikeyaggarwal/printer"
-
-	htgotts "github.com/hegedustibor/htgo-tts"
-	"github.com/hegedustibor/htgo-tts/handlers"
-	"github.com/hegedustibor/htgo-tts/voices"
 )
 
 type quotes struct {
@@ -45,15 +41,11 @@ func run() error {
 	if err != nil {
 		fmt.Println(err)
 	}
-	fmt.Println(quotesace)
-	texttosppech := quotesace.Content
-	speech := htgotts.Speech{Folder: "audio", Language: voices.English, Handler: &handlers.Native{}}
-	speech.Speak(texttosppech)
-	quotesaceprint := quotesace.Content + "\n \n \n -Vinayak Aggarwal "
+	quotesaceprint := quotesace.Content + "\n \n \n -Himanshu Chnadani "
 	var (
 		fontSize          = flag.Float64("fontSize", 60, "font fontSize in points")
-		fontPath          = flag.String("fontPath", "assets/FiraSans-Light.ttf", "filename of the ttf font")
-		backgroundImgPath = flag.String("bgImg", "assets/back.jpg", "image to use as background")
+		fontPath          = flag.String("fontPath", "assets/Antonio-Bold.ttf", "filename of the ttf font")
+		backgroundImgPath = flag.String("bgImg", "assets/image.png", "image to use as background")
 		text              = flag.String("text", quotesaceprint, "text to print on the image")
 		outputPath        = flag.String("output", "cool_img.png", "output path for the resulting image")
 	)
@@ -79,5 +71,6 @@ func run() error {
 }
 
 func instagrampost() {
+	fmt.Println("Posting on Instagram")
 
 }
