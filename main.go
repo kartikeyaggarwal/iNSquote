@@ -41,7 +41,7 @@ func run() error {
 	if err != nil {
 		fmt.Println(err)
 	}
-	quotesaceprint := quotesace.Content + "\n \n \n -Himanshu Chnadani "
+	quotesaceprint := quotesace.Content 
 	var (
 		fontSize          = flag.Float64("fontSize", 60, "font fontSize in points")
 		fontPath          = flag.String("fontPath", "assets/Antonio-Bold.ttf", "filename of the ttf font")
