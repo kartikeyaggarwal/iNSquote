@@ -11,8 +11,43 @@ Hey This Tool is created for instagram creators for ease their work so I devlope
 2. Now configure API Key in code 
 
 > Go to main.go
-> Edit Enter API KEY HERE WITH YOUR API KEY
+> Edit  API KEY HERE WITH YOUR API KEY
+API URL https://rapidapi.com/martin.svoboda/api/quotes15
+
+
+[![installapi](https://i9.ytimg.com/vi_webp/3ziONKgedwQ/mq1.webp?sqp=CKSHzJgG&rs=AOn4CLC5v5TrhXl4CNg6Z5nmzCZSuVr_aQ)
+](https://www.youtube.com/watch?v=3gjcY_00U1w)
+
+CLICK ABOVE IMAGE FOR API KEY CONFIGURATION VIDEO
+
+
 
 3. Now  `go run main.go`
+
+Your tool will generate quote image
+
+## Features
+- [x] Automatic Quotes Grepping via API
+- [x] Rendering It On Image
+- [x] Custom Tempetate
+- [x] Custom Font 
+
+## Upcoming Feature
+- [ ] Automatic Upload on Instagram via Graphql API
+- [ ] Automatic Short Video Creation
+- [ ] Automatic Upload on Youtube 
+&many more
+
+### If you like the project dont forgot to star it
+### If you found any issue or had any suggestion pls free to tell us
+
+Follow me for timely updates on Github
+
+
+## Sample Images By This Tool
+
+![This is an sample](/Samples/thug.png)
+![This is an sample2](/Samples/cool_img.png)
+
 
 
